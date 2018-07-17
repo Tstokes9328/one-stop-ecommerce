@@ -1,5 +1,8 @@
 import React, { Component } from 'react';
 
+//Reset CSS
+import 'reset-css';
+
 //Routes
 import Routes from './routes';
 
